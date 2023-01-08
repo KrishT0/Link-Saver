@@ -12,6 +12,12 @@ Its an chrome extension, in which you can save important links in your local sto
 
 - Exctract the zip file in your desktop.
 - Open Google chrome and go to  <a>chrome://extensions/</a>
+- Click on Developer mode on top right corner of the page.
+<br>
+<br>
+<img src="./IMG/s3.png">
+<br>
+<br>
 - Click on Load unpacked button and provide the extracted file location.
 <br>
 <br>
