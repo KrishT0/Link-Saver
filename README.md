@@ -11,7 +11,7 @@ Its an chrome extension, in which you can save important links in your local sto
 <br>
 
 - Exctract the zip file in your desktop.
-- Open Google chrome and go to  <a>chrome://extensions/</a>
+- Open Google chrome and go to  " <a>chrome://extensions/</a> "
 - Click on Developer mode on top right corner of the page.
 <br>
 <br>
