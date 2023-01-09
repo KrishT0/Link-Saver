@@ -21,7 +21,7 @@ Its an chrome extension, in which you can save important links in your local sto
 - Click on Load unpacked button and provide the extracted file location.
 <br>
 <br>
-<img src="./">
+<img src="./IMG/s2.png">
 <br>
 <br>
 - Now the extension is added to chrome, you can check it use the extension now.
