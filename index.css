@@ -3,27 +3,31 @@ body {
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     min-width: 400px;
+    background-color:rgb(50, 50, 155);
 }
 
 input {
+    border-radius: 2rem;
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
     border: 1px solid #5f9341;
     margin-bottom: 4px;
+    background-color: yellowgreen;
 }
 
 button {
-    background: #5f9341;
-    color: white;
+    border-radius: 2rem;
+    background: yellowgreen;
+    color: rgb(50, 50, 155);
     padding: 10px 20px;
-    border: 1px solid #5f9341;
+    border: 1px solid yellowgreen;
     font-weight: bold;
 }
 
 #delete-btn {
-    background: white;
-    color: #5f9341;
+    background: rgb(50, 50, 155);
+    color: yellowgreen;
 }
 
 ul {
@@ -37,7 +41,7 @@ li {
 }
 
 a {
-    color: #5f9341;
+    color: yellowgreen;
 }
 
 
